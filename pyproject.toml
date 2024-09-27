@@ -17,6 +17,7 @@ scikit-learn = "^1.5.2"
 keras = "^3.5.0"
 xgboost = "^2.1.1"
 lightgbm = "^4.5.0"
+torch = "^2.4.1"
 
 
 [build-system]
